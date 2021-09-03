@@ -16,6 +16,7 @@ public class Sifus {
 	
 	}
 	
+	// creating a constructor to create different Sifu objects
 	public Sifus (String sifuName, int age, String city, String martialStyle) {
 		this.sifuName = sifuName;
 		this.age = age;
