@@ -1,6 +1,6 @@
 # javaSifus
 
-[Here](https://github.com/Kyle2Miles93/kung-fu-web-scraping) is a link to a similar martial art related repository. Very much in the works at the moment. 💪📖 --- also here 👉 [kung-fu-web-scraping](https://github.com/Kyle2Miles93/kung-fu-web-scraping)
+## [Here](https://github.com/Kyle2Miles93/kung-fu-web-scraping) is a link to a similar martial art related repository in my Github account. It's very much in the works at the moment. 💪📖 --- also here 👉 [kung-fu-web-scraping](https://github.com/Kyle2Miles93/kung-fu-web-scraping)
    --------------------------
 
 Note:
