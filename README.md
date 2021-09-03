@@ -1,4 +1,8 @@
 # javaSifus
+
+Note:
+###### This is a java project exported from Eclipse IDE. In retrospect, it is much easier to manipulate within Eclipse than in VS Code.
+
 ## Purpose 
 * Testing out some OOP java code for practice's sake. Content includes Kung Fu teacher's bios.
 * to understand how the following works within VS Code:
