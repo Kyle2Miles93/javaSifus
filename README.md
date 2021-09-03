@@ -1,5 +1,8 @@
 # javaSifus
 
+[Here](https://github.com/Kyle2Miles93/kung-fu-web-scraping) is a link to a similar martial art related repository. Very much in the works at the moment. 💪📖 --- also here 👉 [kung-fu-web-scraping](https://github.com/Kyle2Miles93/kung-fu-web-scraping)
+   --------------------------
+
 Note:
 ###### This is a java project exported from Eclipse IDE. In retrospect, it is much easier to manipulate within Eclipse than in VS Code.
 
